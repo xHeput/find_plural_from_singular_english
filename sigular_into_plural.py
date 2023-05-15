@@ -1,5 +1,5 @@
   # program will take singular form of word and find it's plural form
-
+  # install package on yr IDE / paste this command line into cmd "py -m pip install pattern.en"
 import numpy
 from pattern.en import pluralize
 
